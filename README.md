@@ -1,4 +1,4 @@
-# BIOMEC Trabalho 2 - Paulo
+# BIOMEC Trabalho Final - Paulo
 # Dantony Donato - 11845581
 # Maria Emília - 11812604
 
